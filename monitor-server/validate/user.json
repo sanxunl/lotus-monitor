@@ -1,0 +1,16 @@
+{
+    "name": {
+        "required": true,
+        "String": true,
+        "maxlength": 255
+    },
+    "age": {
+		"required": false,
+        "number": true,
+		"maxlength": 3
+    },
+    "address": {
+        "String": true,
+        "maxlength": 255
+    }
+}
